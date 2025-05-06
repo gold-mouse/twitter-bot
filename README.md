@@ -1,7 +1,5 @@
 
-==========================
-📢 Twitter to Telegram Bot
-==========================
+# 📢 Twitter to Telegram Bot
 
 This bot searches for tweets containing specific keywords (related to web/dev technologies)
 and forwards them to a Telegram channel or group using MarkdownV2 formatting.
@@ -43,8 +41,8 @@ CHAT_ID=your-telegram-chat-id
 --------------------
 Run the following commands to install dependencies and types:
 ```sh
-git clone https://github.com/gold-mouse/Telegram-Twitter-bot.git
-cd Telegram-Twitter-bot
+git clone https://github.com/gold-mouse/twitter-bot.git
+cd twitter-bot
 npm install
 ```
 
